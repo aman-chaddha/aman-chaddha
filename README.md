@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a keen interest in soft
 
 ## 📈 Currently:
 
-- 🌱 **Learning:** Advanced Data Analytics, Machine Learning, and DevOps Tools.
+- 🌱 **Learning:** Advanced Data Analytics, MERN Stack, and DevOps Tools.
 - 🔭 **Working on:**
   - A **Food Delivery Web Application** using React, Node.js, Express, and MongoDB.
   - Building secure **CI/CD pipelines** using Jenkins, Docker, and Kubernetes.
