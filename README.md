@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aman Chaddha!
 
-🎓 **Final Year Computer Science Student at VIT Chennai**  
+🎓 **Computer Science Graduate from Vellore Institute of Technology, Chennai**  
 💼 **Aspiring Software Developer & Data Analyst** | 💻 **DevOps Enthusiast**
 
 Welcome to my GitHub profile! I'm a tech enthusiast with a keen interest in software development, data analytics, and DevOps. My goal is to solve real-world problems through efficient and scalable solutions.
